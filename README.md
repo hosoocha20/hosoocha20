@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on building responsive and engaging web applications
 - 📫 How to reach me: hosoocha20@gmail.com
 
-Have a look at my [portolio]([https://hosoo.dev/)https://hosoo.dev/]!  
+Have a look at my [portfolio](https://hosoo.dev/)!  
